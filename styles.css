@@ -1,0 +1,20 @@
+.body{
+    background-color: aqua;
+}
+.custom-nav-item{
+    margin-inline-start: 10px;
+    margin-inline-end: 10px;
+}
+
+.nav-item a:hover{
+    text-decoration: underline;
+}
+
+.nav-item a.active{
+    font-size: large;
+}
+
+#logo{
+    padding: 5px;
+    width: 70%;
+}
