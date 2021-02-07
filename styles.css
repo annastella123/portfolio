@@ -100,7 +100,7 @@ img {
 
 @media (min-width: 1200px) {
     .jumbotron{
-        background: url(/1200.jpg) no-repeat;
+        background: url(images/1200.jpg) no-repeat;
         background-size: cover;
         height: 800px;
     }
@@ -108,7 +108,7 @@ img {
 
 @media (min-width: 992px) and (max-width: 1199px) {
     .jumbotron{
-        background: url(/992.jpg) no-repeat;
+        background: url(images/992.jpg) no-repeat;
         background-size: cover;
         height: 661px;
     }
@@ -124,7 +124,7 @@ img {
 
 @media (min-width: 768px) and (max-width: 991px) {
     .jumbotron{
-        background: url(/768.jpg) no-repeat;
+        background: url(images/768.jpg) no-repeat;
         background-size: cover;
         height: 511px;
     }
@@ -137,7 +137,7 @@ img {
 
 @media (min-width: 525px) and  (max-width: 767px) {
     .jumbotron{
-        background: url(/375.jpg) no-repeat;
+        background: url(images/375.jpg) no-repeat;
         background-size: cover;
         background-position: center;
         height: 300px;
@@ -162,7 +162,7 @@ img {
 
 @media (max-width: 524px) {
     .jumbotron{
-        background: url(/375.jpg) no-repeat;
+        background: url(images/375.jpg) no-repeat;
         background-size: cover;
         background-position: center;
         height: 300px;
